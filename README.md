@@ -1,55 +1,54 @@
-<h1 align="center">Hi, I'm Muskan 👋</h1>
+<h1 align="center">Hi, I’m Muskan 👋</h1>
 
 <p align="center">
-  💻 2nd-Year CS Student • Java | C++ | Python <br>
-  🚀 Learning DSA, Git & OOP Projects <br>
-  🌍 Exploring Open Source • #100DaysOfCode <br>
-  ☕ Coffee and Code forever
+  Self-taught Programmer • Beginner Open Source Contributor • DSA Enthusiast • Problem Solver  
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Languages I Use  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-### 🌱 What I'm Learning
-- 📚 Data Structures & Algorithms in Java
-- 🧠 OOP Concepts via Mini Projects
-- 🛠️ Git & GitHub for Collaboration
-- 🤝 Getting started with Open Source
+### 🚀 Currently Learning  
+- 📚 Data Structures & Algorithms (DSA)  
+- 🔧 Git & GitHub for version control  
+- 🤝 Contributing to Open Source  
+- 🧠 OOP through Mini Projects  
 
 ---
 
-### 📌 Projects
-- 📅 Calendar Display (Java)
-- 📚 Library Management System (OOP in C++)
-- 🔐 Password Generator (Python)
+### ✨ Tagline  
+☕ **Coffee & Code** | 🚧 Learning by Building | ✅ Progress > Perfection
 
 ---
 
-### 📊 My Developer Stats (Custom)
-
-💻 **Languages I Use**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-📈 **Progress**
-- 🗓️ Total Commits (2025): `15+`
-- 📚 OOP Programs Completed: `6`
-- 🌱 Open Source: Beginner
-- 🔁 DSA in Java: In Progress
+### 📌 Projects  
+- 📅 Calendar App (Java)  
+- 📚 Library Management System (C++)  
+- 🔐 Password Generator (Python)  
 
 ---
 
-### 🤝 Let's Connect
-<a href="https://www.linkedin.com/in/muskan-ray-aa6a68317/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Muskan%20Ray-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 📊 GitHub Stats
+
+#### 🔧 Custom Language Stack  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskanray&layout=compact&langs_count=6&hide=javascript,html,css&theme=tokyonight)
+
+#### 📈 Activity Overview  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskanray&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muskan%20Ray-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-ray-aa6a68317/)  
+📬 `mrayy1010@gmail.com`
+
+---
+
+### 💬 Quote to Live By  
+🌱 *"Start where you are. Use what you have. Do what you can."*
+
