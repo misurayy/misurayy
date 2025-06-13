@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="Muskan Ray Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I’m Muskan 👋</h1>
 
 <p align="center">
